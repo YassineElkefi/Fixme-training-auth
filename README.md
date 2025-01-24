@@ -18,8 +18,8 @@ Before running this project, ensure that you have the following installed:
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone git@github.com:YassineElkefi/Fixme-training.git
-git checkout auth
+git clone git@github.com:YassineElkefi/Fixme-training-auth.git
+cd Fixme-training-auth
 ```
 
 ### 2. Install Dependencies
